@@ -53,3 +53,30 @@
   border-radius: 1rem;
   border: none;
  }
+
+ #new-btn
+ {
+   padding: 1rem;
+   font-size: 1.25rem;
+   background-color: #191913;
+   color: #fff;
+   cursor: pointer;
+   border-radius: 1rem;
+   border: none;
+   margin: 5px;
+ }
+
+ #msg
+ {
+   color: #fff;
+   font-size: 8vmin;
+ }
+ .msg-container
+ {
+   margin: 10px;
+
+ }
+ .hide
+ {
+   display: none;
+ }
